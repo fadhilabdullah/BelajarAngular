@@ -126,6 +126,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CrudDemoApp.html" />
+    <Content Include="CSS\bootstrap.css" />
     <Content Include="Global.asax" />
     <Content Include="Partials\EditPlayer.html" />
     <Content Include="Partials\AddPlayer.html" />
